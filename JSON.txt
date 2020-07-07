@@ -1,0 +1,2 @@
+,{ "Name" : "Kevin", "Surname" : "Hart", "ID": "American", "mobile":"0283747332", "address": "32 New York Rd", "eye":"Y", "chronic": "N", "wheelchair":"N" } 
+,{ "Name" : "Mlando", "Surname" : "Sikhosana Khoza", "ID": "South African", "mobile":"0790199332", "address": "44 Caledon Rd", "eye":"Y", "chronic": "Y", "wheelchair":"N" } 
